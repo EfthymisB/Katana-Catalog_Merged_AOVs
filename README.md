@@ -27,7 +27,7 @@ _(the merged files have a "Master" suffix. Can be changed by editing the "suffix
 
 ## Installation
 
-Add the script in any of Katana's startup folders.
+Add the [`init.py`](https://github.com/EfthymisB/Katana-Catalog_Merged_AOVs/blob/main/init.py) script in any of Katana's startup folders.
 
 - `~/.katana/init.py`
 
